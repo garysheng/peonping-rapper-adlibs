@@ -1,0 +1,1586 @@
+{
+  "cesp_version": "1.0",
+  "name": "rapper_adlibs",
+  "display_name": "Rapper Ad-Libs",
+  "version": "1.0.0",
+  "description": "308 rapper ad-libs as coding event sounds. The full therapboard.com soundboard, one signature ad-lib per artist, fired at random across your agent's events.",
+  "author": {
+    "name": "Gary Sheng",
+    "github": "garysheng"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "hip-hop",
+    "rap",
+    "adlibs",
+    "soundboard",
+    "meme"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_1.mp3",
+          "label": "2 Chainz",
+          "sha256": "5e5420c45307c0b7c6385d6807ae5382b58865923367349db8fdb615c46eef98"
+        },
+        {
+          "file": "sounds/2chainz_whistle.mp3",
+          "label": "2 Chainz",
+          "sha256": "fe0d4b678c221d9ab9f02f345243032896b45270c6457d2356ad47c736a1666d"
+        },
+        {
+          "file": "sounds/50_8.mp3",
+          "label": "50 Cent",
+          "sha256": "ce2e83ae5e91f6694a7a87f0738e83862b03bf2b5f48ba9d45a54e1c5c3f501e"
+        },
+        {
+          "file": "sounds/actionbronson_itsme.mp3",
+          "label": "Action Bronson",
+          "sha256": "7bfb499ab6d5778d16894e33062688e98dbc6c37421ed92dd40d82d243ada251"
+        },
+        {
+          "file": "sounds/bigl_4.mp3",
+          "label": "Big L",
+          "sha256": "e0e508aaa147481acfc64ab7374e7ef33b9b0a4e4229c4f45b2d11f10b28e801"
+        },
+        {
+          "file": "sounds/bigsean_okay.mp3",
+          "label": "Big Sean",
+          "sha256": "e7c72abfccc3c3671849352fcd6d3e440f24d80f8028b2b74fa7151f817e2408"
+        },
+        {
+          "file": "sounds/birdman_10.mp3",
+          "label": "Birdman",
+          "sha256": "46564778a7727e95e70edb70e77d0859a4e573dc939428309ac0cb45a6b10855"
+        },
+        {
+          "file": "sounds/birdman_respeck.mp3",
+          "label": "Birdman",
+          "sha256": "63dccba83f8db1326b4a781e4ac8c0ae0f049b075adc577e9ab91f8e1021d150"
+        },
+        {
+          "file": "sounds/busta_5.mp3",
+          "label": "Busta Rhymes",
+          "sha256": "54a66c36e24380e1f728b216c8f1327f7e7e645624daddeb9c528cce2d545058"
+        },
+        {
+          "file": "sounds/chingy_1.mp3",
+          "label": "Chingy",
+          "sha256": "3cd3f0407f4ba7d55bc1bc85ba19ce53f55661523da9da8a426bbe5d28c38817"
+        },
+        {
+          "file": "sounds/danny_yeah.mp3",
+          "label": "Danny Brown",
+          "sha256": "6a42e2e353ff3f95267dc54b0a154af721f96ec83c0e2d8d06745231c27b954a"
+        },
+        {
+          "file": "sounds/desiigner_yeha.mp3",
+          "label": "Desiigner",
+          "sha256": "9a28f6eb75fc8746a91fa60dd8a738a1d7341e6a98fc1a05106a9133b1419ace"
+        },
+        {
+          "file": "sounds/khaled_majorkey3.mp3",
+          "label": "DJ Khaled",
+          "sha256": "b4e8aa5727ef96a3e0c87ea26fdaa1857d2c01586c551a462e63211e0e2ee21a"
+        },
+        {
+          "file": "sounds/djpaul_2.mp3",
+          "label": "DJ Paul",
+          "sha256": "a11f111d3ad686ea8eabd57df16bd02589489ad07622b01a7ccd61a3a7d47faf"
+        },
+        {
+          "file": "sounds/dmx7.mp3",
+          "label": "DMX",
+          "sha256": "ee95d26952e7e65506e3efcc6a5466d7d7650e748ce560c55af0870aa7da1871"
+        },
+        {
+          "file": "sounds/drake_worst.mp3",
+          "label": "Drake",
+          "sha256": "688b0cbf0977df1260ecc2afc92ddd47acc7bd5e61019103b95f7e6831047f2d"
+        },
+        {
+          "file": "sounds/eminem_3.mp3",
+          "label": "Eminem",
+          "sha256": "88e108c414c5f9bb32981ffd64bb47eabb77bca86f4287364b78def7ba529bd9"
+        },
+        {
+          "file": "sounds/fetty_hey2.mp3",
+          "label": "Fetty Wap",
+          "sha256": "c16e6aab874275c49e8d020c1dcfd855408fe6c70f9ef55ed2e8dea6bee781b4"
+        },
+        {
+          "file": "sounds/freeway_1.mp3",
+          "label": "Freeway",
+          "sha256": "bc247a9365678e4b241a155d03118e6c2409cdc2f7b463dcaef470aec2c6f471"
+        },
+        {
+          "file": "sounds/future_woo.mp3",
+          "label": "Future",
+          "sha256": "47802ea2c979e63b7a8ccb41c1211787068ee72d059e134ee28d4e8f8788e8fb"
+        },
+        {
+          "file": "sounds/gucci_8.mp3",
+          "label": "Gucci Mane",
+          "sha256": "875a6734793e2fc11bc98f8c4291005dcc14159bbdb8e7a0812047ba257def3c"
+        },
+        {
+          "file": "sounds/jarule_1.mp3",
+          "label": "Ja Rule",
+          "sha256": "e2f7cea6b525b9d4d372c603b4f13400717ce8a3d6279ce8a40d9a9423423a01"
+        },
+        {
+          "file": "sounds/jayz7.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "7797be3f7b7a0789b5a07962c0314887bbdec03020d0028a5abf57445ebe21df"
+        },
+        {
+          "file": "sounds/jayz_yessir.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "a6683ea9f4901c5f314d0efd801f687e74a63d5c9d2448dc274a594e1c1936f8"
+        },
+        {
+          "file": "sounds/jones_14.mp3",
+          "label": "Jim Jones",
+          "sha256": "be41806ed3a9be7c7193d952f336be48be6314c3cfdb394009a0949955d885ae"
+        },
+        {
+          "file": "sounds/juicyj_7.mp3",
+          "label": "Juicy J",
+          "sha256": "9419ba6485a64783ffd9628d2b5dea41b70c93e1879ce02cd878a0c8e635283b"
+        },
+        {
+          "file": "sounds/kendrick_biatch3.mp3",
+          "label": "Kendrick Lamar",
+          "sha256": "882621dee0e67eec7a7f943018d357c07a48f5d7cc06f8a3044b1587d3e16fd4"
+        },
+        {
+          "file": "sounds/lilb_2.mp3",
+          "label": "Lil B",
+          "sha256": "63eb4341e79e787ab7c3c6fb6095857be541fb186394ce99ed81f17624bcfdf0"
+        },
+        {
+          "file": "sounds/lilkim_uhunh.mp3",
+          "label": "Lil' Kim",
+          "sha256": "294a9b633f27cba5209f4210947ea69a6407c0f9265001d3d7d4ca1ab2926e22"
+        },
+        {
+          "file": "sounds/weezy_4.mp3",
+          "label": "Lil Wayne",
+          "sha256": "d9221055c8390b4ddb0e0c49158d91b81b75d20c2a4f056fde84446fb31721db"
+        },
+        {
+          "file": "sounds/lilyachty_lilboat.mp3",
+          "label": "Lil Yachty",
+          "sha256": "1925a8f8bfe44205e8af14fb32566ea797d89bff33d81b160e9ca0f8aa80a3f4"
+        },
+        {
+          "file": "sounds/mannie_1.mp3",
+          "label": "Mannie Fresh",
+          "sha256": "9cda3153b550c408a4977dc78e6875b8ec7844e9cfa2942583ede2a1c6768429"
+        },
+        {
+          "file": "sounds/meek_unh.mp3",
+          "label": "Meek Mill",
+          "sha256": "e66dce2c80d49ebf2403e822aea533b51c077192a802c53c7dc0c1a15cd07356"
+        },
+        {
+          "file": "sounds/mikejones_iceage.mp3",
+          "label": "Mike Jones",
+          "sha256": "879d913ba622732f61fb2030a6141e1280db390bc0220caf13d77403f7dc920a"
+        },
+        {
+          "file": "sounds/nas_3.mp3",
+          "label": "Nas",
+          "sha256": "6c5303b879b35f569620b98a4f55270b25d7898cfb64c1cbe53936b7b4ab729b"
+        },
+        {
+          "file": "sounds/nicki_ok.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "c1f97a60f5b8551c929611a964f8f3e9b46ab7644362b021c35e7eac12cbe44a"
+        },
+        {
+          "file": "sounds/oj_4.mp3",
+          "label": "OJ Da Juiceman",
+          "sha256": "d9777e35d45af41c25d3de6c71a4f0c8b3a7cd499bccbc04e30846309a270866"
+        },
+        {
+          "file": "sounds/pimpc_4.mp3",
+          "label": "Pimp C",
+          "sha256": "2dc79fcb32a3cc6eba2b4d3b87de68a53e057e612b7fa7960029506f961a37d8"
+        },
+        {
+          "file": "sounds/pitbull_6.mp3",
+          "label": "Pitbull",
+          "sha256": "678483219ea530b3fe6b7de4d7bab4794b0ded799818539192abcb3db41b0dec"
+        },
+        {
+          "file": "sounds/pushat_haha3.mp3",
+          "label": "Pusha T",
+          "sha256": "f635058e38d9524c75d9bad7100b121c5819a7f93ad44baad95f5415878c1a8b"
+        },
+        {
+          "file": "sounds/raekwon_yo.mp3",
+          "label": "Raekwon",
+          "sha256": "04eb8e95793131ce09769a7238f6f84d7b57eae60be9f12315c3a50b3d5a8091"
+        },
+        {
+          "file": "sounds/ross_2.mp3",
+          "label": "Rick Ross",
+          "sha256": "59ff2fdc5a4250a8e5b890583055f7725e5a437eff2fc260bb327e7f63ae931b"
+        },
+        {
+          "file": "sounds/thugga_3.mp3",
+          "label": "Slim Thug",
+          "sha256": "eebcd920a1d3ed4cc465dbd2ed1f597fe9f907b9e6716d91f701b10e92821d42"
+        },
+        {
+          "file": "sounds/soulja_5.mp3",
+          "label": "Soulja Boy",
+          "sha256": "58093a76de95ef0f3f031db9c96fa92d120e969593930b8bcc345dadfe858462"
+        },
+        {
+          "file": "sounds/takeoff_money.mp3",
+          "label": "Takeoff",
+          "sha256": "67d134934ca564f1ebf24241cd6394955bbc97ca3d05584d297638513a7e00c4"
+        },
+        {
+          "file": "sounds/ti_2.mp3",
+          "label": "T.I.",
+          "sha256": "7393e5df171017d3fefbeecb3097e15f87b949be2dbad3e53389f8d21e7e0de2"
+        },
+        {
+          "file": "sounds/tpain1.mp3",
+          "label": "T-Pain",
+          "sha256": "4a2ae528eabd2ba97bc9a72ba6a76dbda0b19fb79c34ca9c9dbc8a945debf840"
+        },
+        {
+          "file": "sounds/treysongz_4.mp3",
+          "label": "Trey Songz",
+          "sha256": "f9a0df7401857be5d7961ab6fe8268a345e02e12df2b771c1578301d1d4f7318"
+        },
+        {
+          "file": "sounds/tyga_unh.mp3",
+          "label": "Tyga",
+          "sha256": "7a3133aa4bb42156e33a57158064d9dbd2d348047629c0acdd7a59046e288cd5"
+        },
+        {
+          "file": "sounds/willsmith_3.mp3",
+          "label": "Will Smith",
+          "sha256": "219cb9f22f3e072708ba52c50e942d1fce7fc556322c65e20497f4199e55dade"
+        },
+        {
+          "file": "sounds/jeezy_11.mp3",
+          "label": "Young Jeezy",
+          "sha256": "de845a28293611d6d6ce9db6157359e2ab358b4a4613c37e08aa94cdfe07f4d3"
+        },
+        {
+          "file": "sounds/youngthug_phoo.mp3",
+          "label": "Young Thug",
+          "sha256": "75543f78769b94afdc1e7b384344d8508fee2258250eada13572b9df1ef1d8bb"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_yeah2.mp3",
+          "label": "2 Chainz",
+          "sha256": "8df9dd1275e6bf6ff5c865d8f5c670772b8d481ef21620bb9a4e281723045719"
+        },
+        {
+          "file": "sounds/2pac_4.mp3",
+          "label": "2Pac",
+          "sha256": "7800db1780e11e546f7201b692d83453404d475b76acc287e3e3d9d03b0c019c"
+        },
+        {
+          "file": "sounds/50_11.mp3",
+          "label": "50 Cent",
+          "sha256": "74a203cec8892e4bbbaad453f677b028495122a18ac387b2c1d60018441672f9"
+        },
+        {
+          "file": "sounds/actionbronson_unh.mp3",
+          "label": "Action Bronson",
+          "sha256": "54e9e81d6f1aea02368973ba3eaaa684676c38d369ffc4fa778fb36e46881e8c"
+        },
+        {
+          "file": "sounds/bigl_5.mp3",
+          "label": "Big L",
+          "sha256": "d5d117e167282b8a370592c5237b88686c8f626623e763ad057312a7895efb9a"
+        },
+        {
+          "file": "sounds/bigsean_stop.mp3",
+          "label": "Big Sean",
+          "sha256": "24e9612a8bf980a29a62ed494f6fc29bd2dc35be32624dda12c14fdff768f20c"
+        },
+        {
+          "file": "sounds/birdman_16.mp3",
+          "label": "Birdman",
+          "sha256": "b75e3e221612bb77ed854856bbc1a355b66ab806bccc422bfcdba82040d2a345"
+        },
+        {
+          "file": "sounds/bobby_hahaha.mp3",
+          "label": "Bobby Shmurda",
+          "sha256": "3b9526ab25b25349367f07e155f1dcf078b6870969578a25d9d4a66f2a998296"
+        },
+        {
+          "file": "sounds/camron_1.mp3",
+          "label": "Cam'ron",
+          "sha256": "b27cbcb3d039dbdd4624086a8232928e948ad66d028635801a693e5d891ef93d"
+        },
+        {
+          "file": "sounds/currensy_1.mp3",
+          "label": "Curren$y",
+          "sha256": "46b3a3007e1562518fb8fd817dd6577f470e2fdd517b9fee9d3f492f5bfc0f23"
+        },
+        {
+          "file": "sounds/dannybrown_laugh2.mp3",
+          "label": "Danny Brown",
+          "sha256": "79f8e0cd260cd3cb8ebd4a59551b2749d96fae3520c9c6b927e0020cd8c20974"
+        },
+        {
+          "file": "sounds/dizzee_1.mp3",
+          "label": "Dizzee Rascal",
+          "sha256": "ac75aa11fa70064f747622a3ee3605c470360e78c6c464da571d08ca8fdeecf1"
+        },
+        {
+          "file": "sounds/khaled_Riel_Life.mp3",
+          "label": "DJ Khaled",
+          "sha256": "382d3414d34177237d84d5bb50b2a648e04262b6aa9083f6c17c5b500b14882b"
+        },
+        {
+          "file": "sounds/djpaul_3.mp3",
+          "label": "DJ Paul",
+          "sha256": "3a2c75244970ebfd8395ab07e1c9694a12dee962d6ae03ef32a3f925bb2a55c0"
+        },
+        {
+          "file": "sounds/drake_2.mp3",
+          "label": "Drake",
+          "sha256": "30f79fb2d81b63ffabf38d68baa6c9170ca5ba8baa054c21a31c472f0575a499"
+        },
+        {
+          "file": "sounds/drake_yeahyuh3.mp3",
+          "label": "Drake",
+          "sha256": "1be6f0ce13bde7cb317d661dd35b101c71a87eec2657ecc3b2cfac8a2d041099"
+        },
+        {
+          "file": "sounds/eminem_4.mp3",
+          "label": "Eminem",
+          "sha256": "fcfde1eda2ce07d39939b34b6c92236c584d3d4b92b1dc790e9e535eb1a375e8"
+        },
+        {
+          "file": "sounds/fetty_yeahbaby.mp3",
+          "label": "Fetty Wap",
+          "sha256": "b2a44b9420e52a9eed560e168baf3773b728a7bdb7a28428bf95dd16f5467bb7"
+        },
+        {
+          "file": "sounds/french_1.mp3",
+          "label": "French Montana",
+          "sha256": "6869a9e8df309fa69f19c6380c9430396a1f77d5ea7060f89e18c8e210aa0097"
+        },
+        {
+          "file": "sounds/ghostface_yo.mp3",
+          "label": "Ghostface Killah",
+          "sha256": "182c045b53cf5921d312110d7de2d154b9a0dcfd12db1a10c4560c6cc656e695"
+        },
+        {
+          "file": "sounds/gucci_9.mp3",
+          "label": "Gucci Mane",
+          "sha256": "db11621c3b399fa5a00ea2f68c9d4a98ccaaf65bdc195b103d7889c5a71530dc"
+        },
+        {
+          "file": "sounds/jarule_2.mp3",
+          "label": "Ja Rule",
+          "sha256": "cf9fce6d641c794cfd05f813afa76478cd69baa9a44b9cbec4bc769a30c0f65b"
+        },
+        {
+          "file": "sounds/jayz8.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "61b98b41e236a84a03a34b90b866ced1957424dfe3f420d17e34210299de0cfd"
+        },
+        {
+          "file": "sounds/jayz_young.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "6316e88f036168c53e7aa4eb05ad6d425457028bdddba071174fcaeaed443f28"
+        },
+        {
+          "file": "sounds/juelz_2.mp3",
+          "label": "Juelz Santana",
+          "sha256": "a3129389afb6d7ea0e5156d74a10d7ac6f21d75449b69efce22af5df3ae88f6f"
+        },
+        {
+          "file": "sounds/juicyj_yeahhoe.mp3",
+          "label": "Juicy J",
+          "sha256": "dbe75e1aa07f57fe7b585094c2f5a3b3c0f257c7f69c5e8251f3ada207835cbb"
+        },
+        {
+          "file": "sounds/kendrick_tootoo.mp3",
+          "label": "Kendrick Lamar",
+          "sha256": "837b0d52ece171b8e9c10c969818ee099c6eb652bc8f79f11f7527aa276cbeef"
+        },
+        {
+          "file": "sounds/liljon_2.mp3",
+          "label": "Lil Jon",
+          "sha256": "06eda753810d21b1572e7cb19fc149a3bcbbd31eb5007cbaeefd047bc0d64240"
+        },
+        {
+          "file": "sounds/lilscrappy_1.mp3",
+          "label": "Lil Scrappy",
+          "sha256": "f7de1f371f14cbf4215ef813206d064cb9da51ed368636a162edcfc0f48a19d8"
+        },
+        {
+          "file": "sounds/weezy_16.mp3",
+          "label": "Lil Wayne",
+          "sha256": "4bd50af015d638d5bb85815ce0a4acd4b54c3d2cba76d5f8ed9fa5d63450de8d"
+        },
+        {
+          "file": "sounds/banks_unh.mp3",
+          "label": "Lloyd Banks",
+          "sha256": "5b3ecc9169d2b95658133251cfa74bf4cedffea6f1e78576d03d36addaab874d"
+        },
+        {
+          "file": "sounds/mannie_2.mp3",
+          "label": "Mannie Fresh",
+          "sha256": "d6efa0a2f7545f69fccf5c65ea24bad2000a4f45f6762e5cd140209566bddb0b"
+        },
+        {
+          "file": "sounds/methodman_1.mp3",
+          "label": "Method Man",
+          "sha256": "2e8bc213413df3f16ffcc44269a2550409dd333d30c47e9807dafb7efc6a7a0f"
+        },
+        {
+          "file": "sounds/mikejones_jyeah.mp3",
+          "label": "Mike Jones",
+          "sha256": "a9a10f877720438d0662835e78ac003ca02263eaf18b5d6fe5ec510a9fc1032b"
+        },
+        {
+          "file": "sounds/nas_6.mp3",
+          "label": "Nas",
+          "sha256": "561a922c759f346178dd82ac6e0c8385201d0702ac3540d2d331bf8c52e6a905"
+        },
+        {
+          "file": "sounds/nicki_unh.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "1810c43cedf18cb4c24e6e02e5ff80e23ea7c3631dd1fd273894d9414f2583be"
+        },
+        {
+          "file": "sounds/odb_shimmy.mp3",
+          "label": "Ol' Dirty Bastard",
+          "sha256": "c68fccd38d5c7a609f491f1928d0ab732927bdaeecf08f5db30383bf5270452a"
+        },
+        {
+          "file": "sounds/pimpc_1.mp3",
+          "label": "Pimp C",
+          "sha256": "4738678fcd0300c829a87b86a095f1ffe860a6f121ed895e3a761b4c5794bc19"
+        },
+        {
+          "file": "sounds/problem_what2.mp3",
+          "label": "Problem",
+          "sha256": "59c69e47cb7161276075008e2d2a530cf036a2988521b2fdfc1dd1c1c4fe3cbf"
+        },
+        {
+          "file": "sounds/quavo_ayy.mp3",
+          "label": "Quavo",
+          "sha256": "1b670d325ddca4f23f8f3194f9169beb49faf9aa027077340465a7270458ed9c"
+        },
+        {
+          "file": "sounds/raesremmurd_hay.mp3",
+          "label": "Rae Sremmurd",
+          "sha256": "e6350864d266f87691665b9bf00d28c98f34a2e274f4e8730cf468f81f7a5347"
+        },
+        {
+          "file": "sounds/ross_4.mp3",
+          "label": "Rick Ross",
+          "sha256": "3fd060174fbc83075dd00842dc0b88712693021e604dc7791026a5e6b663d386"
+        },
+        {
+          "file": "sounds/snoop_5.mp3",
+          "label": "Snoop Dogg",
+          "sha256": "3b7daa8bc610e24ab300fb0d2a7a6522c5e46c4ea9ab7020b29c48544591fb03"
+        },
+        {
+          "file": "sounds/swizz_1.mp3",
+          "label": "Swizz Beatz",
+          "sha256": "cd6c5c352e8a20c4053e844a8d183e40670dc742a850b494d91d9761e3d668b0"
+        },
+        {
+          "file": "sounds/takeoff_woo.mp3",
+          "label": "Takeoff",
+          "sha256": "36ac9497a256f9a1c1eecf072cce42957fe5ca4f8fc97a60ef75dc6d24bada09"
+        },
+        {
+          "file": "sounds/ti_3.mp3",
+          "label": "T.I.",
+          "sha256": "a2f127eb71669d677f5ce3a3327530be3ce0749fc36cd47066599d9f50e80217"
+        },
+        {
+          "file": "sounds/trapaholics_1.mp3",
+          "label": "Trap-A-Holics",
+          "sha256": "13736aecefc90f7dcfb9e1d4bebade5db1c7a197e5f0df6a397b57ed82926176"
+        },
+        {
+          "file": "sounds/treysongz_uhunh.mp3",
+          "label": "Trey Songz",
+          "sha256": "fb847f06729a63c98d2ac5397ee1fda2a3765a703de2b505fb352cdc496d12ee"
+        },
+        {
+          "file": "sounds/vado_1.mp3",
+          "label": "Vado",
+          "sha256": "73fe78c54e263ca843b81808c0c6a2d3bd3ddd945511947a5e0ba4940207a5cd"
+        },
+        {
+          "file": "sounds/wiz_1.mp3",
+          "label": "Wiz Khalifa",
+          "sha256": "f61c9ee00c8441148e0b7649a86da9287d14199d8c720a01cb70a7c8f18285ff"
+        },
+        {
+          "file": "sounds/jeezy_1.mp3",
+          "label": "Young Jeezy",
+          "sha256": "82062359636e5567c7612ff80a154a3c54e950b54af417eb6c9cf3d56e84e226"
+        },
+        {
+          "file": "sounds/youngthug_wha.mp3",
+          "label": "Young Thug",
+          "sha256": "69747498fef0e14406a94b62e86dba4e458e5495e941575bfac7c9c1d529eaac"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_tellem.mp3",
+          "label": "2 Chainz",
+          "sha256": "ea98137622a29a61a30e9953bd7bb98cdae28a94b780381a5a2c49ceba6cc88f"
+        },
+        {
+          "file": "sounds/2pac_5.mp3",
+          "label": "2Pac",
+          "sha256": "1ff39dc9de53ca681ff917abca7432c0e9dfee78374f882376e942ad46181dc2"
+        },
+        {
+          "file": "sounds/50cent_2.mp3",
+          "label": "50 Cent",
+          "sha256": "0c3e303e21e201fe161b5ddf82f8995dcc4e6fb0b21e9f10c66e79ff7d987dc8"
+        },
+        {
+          "file": "sounds/akon_1.mp3",
+          "label": "Akon",
+          "sha256": "c836b8eb06d7ec940ed14017c848d4ad8b6a03a5dbbb3488606acb4e129f805b"
+        },
+        {
+          "file": "sounds/bigsean_boi2.mp3",
+          "label": "Big Sean",
+          "sha256": "bc28b7d8b9a399f73315a69ad9874f84840a771ce34a0915ed113afa50015e11"
+        },
+        {
+          "file": "sounds/bigsean_whoa.mp3",
+          "label": "Big Sean",
+          "sha256": "10469457262327cc3e8b3c0e6dd9465145c9d8775bc0f81182969b3c22a4af5c"
+        },
+        {
+          "file": "sounds/birdman_1.mp3",
+          "label": "Birdman",
+          "sha256": "c0558ef4408f7fdcb6baa2954796cfc4161644b9548fd0cdc80a7c075fbdc8dc"
+        },
+        {
+          "file": "sounds/bunb_ugk4life.mp3",
+          "label": "Bun B",
+          "sha256": "385179f8b83933a8bc891b2e01c0730b01dbe9492d7944e4a1aced4318a95b17"
+        },
+        {
+          "file": "sounds/camron_2.mp3",
+          "label": "Cam'ron",
+          "sha256": "9c65331361822b45b6d0fdf44c6a13c26f66d45cebdeece16e1900447095e80c"
+        },
+        {
+          "file": "sounds/dabrat_comeon.mp3",
+          "label": "Da Brat",
+          "sha256": "4979758c3cc750b6645ffda9653203a61a6e1386b0225a964b692d7dba85b06e"
+        },
+        {
+          "file": "sounds/danny_check.mp3",
+          "label": "Danny Brown",
+          "sha256": "f42aec5ee3d8ecfb196c06585b6b1f7b49088f95cd772f2042891394d0aab005"
+        },
+        {
+          "file": "sounds/djdrama_dramatic.mp3",
+          "label": "DJ Drama",
+          "sha256": "2e72b1fea063324eaddb3eadba6eeecde81b4a88b5b401c21e065f8fbe710bb4"
+        },
+        {
+          "file": "sounds/khaled_theydontwant.mp3",
+          "label": "DJ Khaled",
+          "sha256": "2a1700651b76f949a0572793cd1d9b6fac856a98c48d86304081637441d0bc3d"
+        },
+        {
+          "file": "sounds/djpaul_9.mp3",
+          "label": "DJ Paul",
+          "sha256": "151b6295ce65f8c2f2e0362fd70ad3869c22175e6b7859c1c3bf27bcd296ce86"
+        },
+        {
+          "file": "sounds/drake_3.mp3",
+          "label": "Drake",
+          "sha256": "5f0352dbb363cfe04c93e1707bf2ae8881da1d8a851294652bd7423aa281b709"
+        },
+        {
+          "file": "sounds/drummaboy_1.mp3",
+          "label": "Drumma Boy",
+          "sha256": "fbafa42dbc55fbc0b76d25cb263e0d229300080c17deea3e75683926cd61ee35"
+        },
+        {
+          "file": "sounds/fatjoe_1.mp3",
+          "label": "Fat Joe",
+          "sha256": "a95e737feb2dfa69d6cc4ef4afd0e01ea4c00827a4eafc417e9a92ddc39c230f"
+        },
+        {
+          "file": "sounds/flava_1.mp3",
+          "label": "Flavor Flav",
+          "sha256": "bdfca6b708952178d97bacbe813641a1941775fd0d8125a454bc67b71f2df023"
+        },
+        {
+          "file": "sounds/french_haan.mp3",
+          "label": "French Montana",
+          "sha256": "c527702684fd6939977591c103b293693f634baec6145eff341382ea6b7e38f0"
+        },
+        {
+          "file": "sounds/grandmaster_1.mp3",
+          "label": "Grandmaster Flash",
+          "sha256": "079bdd570d47b5a4ba83b93dd5248a83efb2abfb52cd061d134986cf239ced45"
+        },
+        {
+          "file": "sounds/hurricanechris_1.mp3",
+          "label": "Hurricane Chris",
+          "sha256": "7ed17978124024aed47db226c6f49b5f00f24292933854e264a429b549a6c58a"
+        },
+        {
+          "file": "sounds/jayz_7.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "1049e62179cd49bc0fd876f9f0854f42f0bbf19aa909df979d454b9c7d373b16"
+        },
+        {
+          "file": "sounds/jayz_itsthero.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "dd38d7f68227ef43397a23d3e0167893b2b888efe80b40d76c9eb8b0e53f2c95"
+        },
+        {
+          "file": "sounds/jazzypha_1.mp3",
+          "label": "Jazze Pha",
+          "sha256": "323997e85a368471e2534193b6088a956d1bdb0e75e52ca3ef48664c61f7e7c3"
+        },
+        {
+          "file": "sounds/juicyj_1.mp3",
+          "label": "Juicy J",
+          "sha256": "b2e7ff78dc7687f811692d049eb8588e9d524afa6bac0a35d31971735f1114af"
+        },
+        {
+          "file": "sounds/kanebeatz_inthebuilding.mp3",
+          "label": "Kane Beatz",
+          "sha256": "bc0f07c0106d415cf0747c4086fcea2315860aca409e5ef0132297f5f4369eb6"
+        },
+        {
+          "file": "sounds/killermike_2.mp3",
+          "label": "Killer Mike",
+          "sha256": "1708c7956a6623a9ab47fcb56108e725d1966eb9ffbffe5592f058a84519ac69"
+        },
+        {
+          "file": "sounds/liljon_3.mp3",
+          "label": "Lil Jon",
+          "sha256": "14ac9fd976c87c1d34cde5231fb93cc79eb4298bf8a2574db91385798e793c40"
+        },
+        {
+          "file": "sounds/liluzivert_yah2.mp3",
+          "label": "Lil Uzi Vert",
+          "sha256": "9d3c6c3880bc019e932f5a63218d5ebc379380978e351335479fc0ecc6fdf847"
+        },
+        {
+          "file": "sounds/weezy_17.mp3",
+          "label": "Lil Wayne",
+          "sha256": "3386b0cae6e02535f5f614010e85143f5a2826c0ccb1679627f107c8a4471b19"
+        },
+        {
+          "file": "sounds/banks_yeah.mp3",
+          "label": "Lloyd Banks",
+          "sha256": "b1eeed42627c11f53101342a89067e80a22f1b040447c0f40dfa5ee0f86fd051"
+        },
+        {
+          "file": "sounds/mastaace_awwyeah.mp3",
+          "label": "Masta Ace",
+          "sha256": "38929a9a4523bd0792ed7a4eeb5787fa025e4ef20a64b41a74c0e519955ee381"
+        },
+        {
+          "file": "sounds/methodman_tical.mp3",
+          "label": "Method Man",
+          "sha256": "5bd801877d9805048b5e4b02b033b305ed11f1bba690edf0ec3410de85254cd7"
+        },
+        {
+          "file": "sounds/mop_1.mp3",
+          "label": "M.O.P.",
+          "sha256": "c6ae10465ab4e816b86c16eaa01a3fcc580263323740c33708966ef5b1402e53"
+        },
+        {
+          "file": "sounds/natedogg_1.mp3",
+          "label": "Nate Dogg",
+          "sha256": "64bdc208bc331f06154835836d1b7a0c5fb602c74180d4ddc9163cd4f13e8329"
+        },
+        {
+          "file": "sounds/nicki_youngmoney.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "eb761b562981c4fa6b3408727d0831ec4f002a6923b82b1396df97459b3b6d24"
+        },
+        {
+          "file": "sounds/odb_yo.mp3",
+          "label": "Ol' Dirty Bastard",
+          "sha256": "a8bb179805b73b4f80280aa3f6ee428f012d287f8ab7a0371808b81d0d1f7212"
+        },
+        {
+          "file": "sounds/pimpc_sweetjones3.mp3",
+          "label": "Pimp C",
+          "sha256": "c342d3358877d597d78768394f2cedd57c4e7d2735774fa780593377e78e5dc3"
+        },
+        {
+          "file": "sounds/projectpat_1.mp3",
+          "label": "Project Pat",
+          "sha256": "751ed804f47149580b0873f48eab90298d8949c6011bcf72cabd379d8c29319b"
+        },
+        {
+          "file": "sounds/quavo_gone2.mp3",
+          "label": "Quavo",
+          "sha256": "7a1cf04987927f3378c4e8a5f8be9b2d63bb72a5ade66fd757de02f84933068e"
+        },
+        {
+          "file": "sounds/redman_heyo.mp3",
+          "label": "Redman",
+          "sha256": "7c9d62667b0684178762f5f7a352106d112c21e2c80543e353e5a7ee810b832a"
+        },
+        {
+          "file": "sounds/ross_woo.mp3",
+          "label": "Rick Ross",
+          "sha256": "7e32ed3ba3f81f9e9ce078439f952b80b472f4a8c661c150c3e200490a657cd5"
+        },
+        {
+          "file": "sounds/snoop_4.mp3",
+          "label": "Snoop Dogg",
+          "sha256": "787f61d5b3a54d3b8139f9fbb8b8afb0a9356c20aa2e25f8f9b5b2dd32df0fee"
+        },
+        {
+          "file": "sounds/swizz_goddamit.mp3",
+          "label": "Swizz Beatz",
+          "sha256": "f422ac433b7a51c27d7edda89c1c68d856aefc457410426f9162336dcd18e484"
+        },
+        {
+          "file": "sounds/takeoff_woowoo.mp3",
+          "label": "Takeoff",
+          "sha256": "3bfc213558a1e91ddd4346f6ae8a1ea7b74b1292eec2065575230624e6a15dda"
+        },
+        {
+          "file": "sounds/ti_22.mp3",
+          "label": "T.I.",
+          "sha256": "8d9a7d19f178058616d7a35a88a72401d4562075fdb95186916e84f267737c53"
+        },
+        {
+          "file": "sounds/trapaholics_damnson.mp3",
+          "label": "Trap-A-Holics",
+          "sha256": "4d18ba4336cb460d550a5a493ae935058d53805f62ac46d9f2ed6dc59284c323"
+        },
+        {
+          "file": "sounds/trick_1.mp3",
+          "label": "Trick Daddy",
+          "sha256": "08659fd4e9e3e2b87312753d0e03c21ee6b16c78566ad53033ac5c0d7465e329"
+        },
+        {
+          "file": "sounds/waka_1.mp3",
+          "label": "Waka Flocka Flame",
+          "sha256": "82da7c8afc23064429eb7ccd1148faaded7a4dc752cec38392852cd99ac80cc9"
+        },
+        {
+          "file": "sounds/wiz_unh.mp3",
+          "label": "Wiz Khalifa",
+          "sha256": "bff55c2f0e008819f14e8230c0e12d0c2d2db5685e506377f66b7f2e09fa9c8d"
+        },
+        {
+          "file": "sounds/youngthug_boss.mp3",
+          "label": "Young Thug",
+          "sha256": "35dab6280299ff244c95235698e5fccb40a807dab3f7fa41acdbe403adbf254a"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_tru.mp3",
+          "label": "2 Chainz",
+          "sha256": "57c1e6749057e9e764780266d1dc8004bbc8b5a3cbe5f0ebe09e38fdafbe55ab"
+        },
+        {
+          "file": "sounds/2pac_6.mp3",
+          "label": "2Pac",
+          "sha256": "371b2e1444f404992b9e7c940cf0ef2a8814c0889be4b719c3deea97cd6e7a9b"
+        },
+        {
+          "file": "sounds/action_bronsolino.mp3",
+          "label": "Action Bronson",
+          "sha256": "6368e2737cc8498ec661a019c61e7a7659fdccfd36eaf444dc49763980ed903a"
+        },
+        {
+          "file": "sounds/beanie_mac.mp3",
+          "label": "Beanie Sigel",
+          "sha256": "57f75d1129e6fb8661ac2e335ca091945839f629d96a57114169db35f6112fbd"
+        },
+        {
+          "file": "sounds/bigsean_doit.mp3",
+          "label": "Big Sean",
+          "sha256": "291a1ec3af76e45efc16f323ae334f07e44e65ee18a48c2a3b93af5ec8f63af4"
+        },
+        {
+          "file": "sounds/bigsean_whoathere.mp3",
+          "label": "Big Sean",
+          "sha256": "0b726b9afa6afb7e4d4285ee7eb48faffb88722431fde85a20df09e5651465b0"
+        },
+        {
+          "file": "sounds/birdman_6.mp3",
+          "label": "Birdman",
+          "sha256": "ca751a5fa1ebc5c3f169242c14efc67b43b999556a67c69f6460e8ac35e11b5a"
+        },
+        {
+          "file": "sounds/busta_6.mp3",
+          "label": "Busta Rhymes",
+          "sha256": "b7f7e6d64c34c0205b55fc82bdf723b058361c99fd171d39c5a8cf90bd45b8f9"
+        },
+        {
+          "file": "sounds/chance_aghh2.mp3",
+          "label": "Chance the Rapper",
+          "sha256": "392b345cd6e4922faa491a5dbcb910f655b9d2f935d29b9638e8405015a11ddd"
+        },
+        {
+          "file": "sounds/dabrat_lookout.mp3",
+          "label": "Da Brat",
+          "sha256": "4418d11fc263daa9f38fab807d5d4eef853583d10f774c4089ae08719f2f2ab5"
+        },
+        {
+          "file": "sounds/davidbanner_5.mp3",
+          "label": "David Banner",
+          "sha256": "5ec45338866e5bf15b48519adc9848f7493b86084dc910eca80ba10279ea3d68"
+        },
+        {
+          "file": "sounds/djkhaled_2.mp3",
+          "label": "DJ Khaled",
+          "sha256": "f7201167e16db56b24c5c8166f97d8891d8c5aa425fcf85be5357e772b681d5c"
+        },
+        {
+          "file": "sounds/khaled_wethebest.mp3",
+          "label": "DJ Khaled",
+          "sha256": "0f6e69b371ee39546ba25fe3e33d289567330d65c944311319e4c5863edb28ae"
+        },
+        {
+          "file": "sounds/dmx_1.mp3",
+          "label": "DMX",
+          "sha256": "d9e2a8e5dc06e8c548f3451b4eae0be3ac2318d2a38a5836352f8a2e7fb04730"
+        },
+        {
+          "file": "sounds/drake_4.mp3",
+          "label": "Drake",
+          "sha256": "241c9989163d7a417eed8ea7bc0e99027b7d037197f25ed8b6f80c12da8c929c"
+        },
+        {
+          "file": "sounds/e40_1.mp3",
+          "label": "E-40",
+          "sha256": "53b47e2ef8dfb06348c36291422048646a2b2f088e9a9225b9fc00eb7463c08b"
+        },
+        {
+          "file": "sounds/fatjoe_9.mp3",
+          "label": "Fat Joe",
+          "sha256": "325b92be992a721bedab75c2b876dbf1f62c86f9f9e3d968254b65080791ca01"
+        },
+        {
+          "file": "sounds/foxy_yeah.mp3",
+          "label": "Foxy Brown",
+          "sha256": "a9b034f955e8cde9ec2ac962ccd1bee5cc5611d9337fe77f04c07fb32fe31b67"
+        },
+        {
+          "file": "sounds/future_brrrr.mp3",
+          "label": "Future",
+          "sha256": "763686eb969400c7325696448634d77839b9b2225692012d6c568c3ca6c6de38"
+        },
+        {
+          "file": "sounds/gucci_1.mp3",
+          "label": "Gucci Mane",
+          "sha256": "190915dfe576329463400c01e2f9982efbf48a420dfb3c385e20e95c2103f2ce"
+        },
+        {
+          "file": "sounds/icecube_1.mp3",
+          "label": "Ice Cube",
+          "sha256": "f137c04cc6777f6251d01859cbb6add084ad4e1b49248c520a29577083921012"
+        },
+        {
+          "file": "sounds/jayz_9.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "d6eb9a214a6fd35e7c6136bb4e38815ac81035bbe14c579ddfcb151f581c37be"
+        },
+        {
+          "file": "sounds/jayz_itsyoboy.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "51f94e6ab9d66b2df3f4b127ce5c71f1d54fa5528881e7df7081a55c4054dc0f"
+        },
+        {
+          "file": "sounds/jcole_bitch.mp3",
+          "label": "J. Cole",
+          "sha256": "75723946afb03ca783457409e508b6a7fd62c916846fd6c54a7a41132c0da7d4"
+        },
+        {
+          "file": "sounds/juicyj_8.mp3",
+          "label": "Juicy J",
+          "sha256": "f9bb08c8c93aaf7f0309509a7a97578cf53e2027265d3b560ace95d86a117e76"
+        },
+        {
+          "file": "sounds/kanye_1.mp3",
+          "label": "Kanye West",
+          "sha256": "ca9738f053923404bf37fc6c0b60842b006838e7f17b18b4ad21237a7848cf45"
+        },
+        {
+          "file": "sounds/killermike_3.mp3",
+          "label": "Killer Mike",
+          "sha256": "cfb0e2a2101f9e03e0a45c699147a62228102c4b1aff4d1c12eef3a032d28f62"
+        },
+        {
+          "file": "sounds/liljon_8.mp3",
+          "label": "Lil Jon",
+          "sha256": "f23e1feaef62a2a910fa084da55e198d7d81fcdecf1517d75908e91c392a8484"
+        },
+        {
+          "file": "sounds/weezy_14.mp3",
+          "label": "Lil Wayne",
+          "sha256": "7a1aeb26c2e1e1551394e85a63101f278370112d431c7c7fa57be6a2f068c2d7"
+        },
+        {
+          "file": "sounds/weezy_25.mp3",
+          "label": "Lil Wayne",
+          "sha256": "7b7bd4e1fb47a2b2cf1bcac8ff307a502cffa78aabfac0e818c9ee99a52543e2"
+        },
+        {
+          "file": "sounds/ludacris_2.mp3",
+          "label": "Ludacris",
+          "sha256": "3d5f250c591291c042171ba3f8c3b3c049b1d89d35568f573d148042d06cddc6"
+        },
+        {
+          "file": "sounds/mceiht_1.mp3",
+          "label": "MC Eiht",
+          "sha256": "3300114886a8a8cb170cdfbadf235577f3881e4bad87e6cae3ed3ba647d1667b"
+        },
+        {
+          "file": "sounds/methodman_yo.mp3",
+          "label": "Method Man",
+          "sha256": "ab3a9c04ddd7bbb6531fdb7a0e5b34c7024deebbb2ef87b004bd3509b211bdce"
+        },
+        {
+          "file": "sounds/mop_2.mp3",
+          "label": "M.O.P.",
+          "sha256": "76c9745b58d6f73bf4cbc6af0c848e091ac70a8c19011cee77ea1aaa2d41a266"
+        },
+        {
+          "file": "sounds/nicki_augh.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "2dccc0bf56745621eba2a1b35b9c8a0097a735ab9dce477e5d45d56c6c70dadd"
+        },
+        {
+          "file": "sounds/nore_1.mp3",
+          "label": "N.O.R.E.",
+          "sha256": "bedf4d72c88feb9f7c7c6b4ed8d482b8890b6ea64641168386f5cf3a2d34863c"
+        },
+        {
+          "file": "sounds/pharrell_1.mp3",
+          "label": "Pharrell Williams",
+          "sha256": "15cadbf61747d15970c2101e35ac10a9591ba170fd59b189d311bf21c6ac9a67"
+        },
+        {
+          "file": "sounds/pitbull_1.mp3",
+          "label": "Pitbull",
+          "sha256": "62f4254092fdd1889efb71eed9d3b0bd79b81e1a3a2c72413ea72adf4d321caf"
+        },
+        {
+          "file": "sounds/pushat_1.mp3",
+          "label": "Pusha T",
+          "sha256": "ef99123f8cb826c0115c7d67321ef27aa6c18ad4d6b8b9ed82920a48d618a4f4"
+        },
+        {
+          "file": "sounds/quavo_ugh.mp3",
+          "label": "Quavo",
+          "sha256": "fae4be148a51518e76677a7cddc45642ff822ea2b893e67718f3f9d9586a5060"
+        },
+        {
+          "file": "sounds/richhomie_hey.mp3",
+          "label": "Rich Homie Quan",
+          "sha256": "4b67e9fb1af7bfd1ab603ba6d8cd7b7c3e7824d605692f5f367c0395a6921809"
+        },
+        {
+          "file": "sounds/schoolboy_yawk.mp3",
+          "label": "ScHoolboy Q",
+          "sha256": "52ff93734af14bbbc1f7d65b37854ce9995a64e0aa9929bfcf6f21f5d0a7fb11"
+        },
+        {
+          "file": "sounds/snoop_1.mp3",
+          "label": "Snoop Dogg",
+          "sha256": "e70b3ea4a393008e010b52aaef2d65f67daf67804fe979138b6f5d98c3d1d6bd"
+        },
+        {
+          "file": "sounds/takeoff_ayy.mp3",
+          "label": "Takeoff",
+          "sha256": "55188e599fa56571e55da8415b1fe261e5f378c56846bbe867f7a6e2421f37c2"
+        },
+        {
+          "file": "sounds/takeoff_damn.mp3",
+          "label": "Takeoff",
+          "sha256": "1242248f87804c614e46ac0c49bdce1d8f98aeb0757dc57c80ed5eee72b73229"
+        },
+        {
+          "file": "sounds/ti_32.mp3",
+          "label": "T.I.",
+          "sha256": "5e145d68716cd78153d38060e7d48b3642e40fb7071b969aff9c0cb69aaee1ae"
+        },
+        {
+          "file": "sounds/traviscott_laflame.mp3",
+          "label": "Travis Scott",
+          "sha256": "ece56a823745f90a0f5a4b5792f77044980d081f7cb08dfdc61670c1df8c40a6"
+        },
+        {
+          "file": "sounds/trick_2.mp3",
+          "label": "Trick Daddy",
+          "sha256": "2a83fe25d6eda378c9dde736009dcc2579d21ca21fabd9fc4e45ce842cf44e7d"
+        },
+        {
+          "file": "sounds/waka_8.mp3",
+          "label": "Waka Flocka Flame",
+          "sha256": "f26b058921bf7de865c042b526e609b4b4f25e5c9b7c2d8a3943bbc6fb7bfbb4"
+        },
+        {
+          "file": "sounds/yg_skrrt.mp3",
+          "label": "YG",
+          "sha256": "0af2b7eb3ae113ae720dbf2cf5c11f0fc21d8615a7b9a15277bae1b03a4cc2c4"
+        },
+        {
+          "file": "sounds/youngthug_ew.mp3",
+          "label": "Young Thug",
+          "sha256": "4552d030c85da3b61dceefd6aa555e49f96ee92e96b8a6c2deb570a6102ff7be"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_unh3.mp3",
+          "label": "2 Chainz",
+          "sha256": "5ac1bf3447e31c69e5733f1b342ba1632b18ea30941050031ca6bd1609ed7d7b"
+        },
+        {
+          "file": "sounds/21savage_21.mp3",
+          "label": "21 Savage",
+          "sha256": "fa3bf8a996c954ce66c3b13f7432fab2f59cb2c407372a397bb82a8e3a2c2639"
+        },
+        {
+          "file": "sounds/action_yeah.mp3",
+          "label": "Action Bronson",
+          "sha256": "0a93fbc55f0c2a7dd1e3e583e89d720ae72d9378f2075e92beb4446bce176fa4"
+        },
+        {
+          "file": "sounds/bigboi_1.mp3",
+          "label": "Big Boi",
+          "sha256": "efa6074baa563d7e4ccf0f33e27f1a245f08d471733ea217f075157aaababfd9"
+        },
+        {
+          "file": "sounds/bigsean_holdup2.mp3",
+          "label": "Big Sean",
+          "sha256": "630e0d19a3f769567f382db4340326e10517fe0b1b05c3f480f1c8467946fafc"
+        },
+        {
+          "file": "sounds/bigsean_unhunh.mp3",
+          "label": "Big Sean",
+          "sha256": "54265cd89388f6fcbad1b6b4aebfcd49e98588172d62df57687561d03df47f25"
+        },
+        {
+          "file": "sounds/birdman_birdman.mp3",
+          "label": "Birdman",
+          "sha256": "9b5f534031d694ba88bc2c825d547fdce41be3bce694d7ce20dfaef7bbfc6e69"
+        },
+        {
+          "file": "sounds/busta_1.mp3",
+          "label": "Busta Rhymes",
+          "sha256": "37ff7b02ced34ac2be486bc6b737f7e98d7764d722c7573038a100e6e0aa47ab"
+        },
+        {
+          "file": "sounds/keef_bang.mp3",
+          "label": "Chief Keef",
+          "sha256": "040d8d156e460114e3034b9aefe461ee29521fdd6c30f731b5b20f1bfa1c09dc"
+        },
+        {
+          "file": "sounds/dabrat_oh.mp3",
+          "label": "Da Brat",
+          "sha256": "7ba3719734b3af6df697dae745322ed2fdafed4983f25ab822180f2f807c6c32"
+        },
+        {
+          "file": "sounds/desiigner_pandapanda.mp3",
+          "label": "Desiigner",
+          "sha256": "3b2951261c651b6db65ec6b022346552ca989d82688b0f1600c51eda44cd12be"
+        },
+        {
+          "file": "sounds/djkhaled_3.mp3",
+          "label": "DJ Khaled",
+          "sha256": "325f313ea0498f66d4a8b829168d187653fbb7d356cbd5b6455981f789b1eacf"
+        },
+        {
+          "file": "sounds/khaled_youdontlovemenomo.mp3",
+          "label": "DJ Khaled",
+          "sha256": "57e0c77bbe39138343ddd6a5028a3846b93c7036aae2e17730eacd67491f2241"
+        },
+        {
+          "file": "sounds/dmx_3.mp3",
+          "label": "DMX",
+          "sha256": "448379c5bb9aae85bc87b68c60fb9c1e3aa2bdef35dca9f677f39f1605c55e60"
+        },
+        {
+          "file": "sounds/drake_5.mp3",
+          "label": "Drake",
+          "sha256": "dc038b3a8125ce3cda48adfe17bf399d70ea9987968ae74b4595db590fa59a01"
+        },
+        {
+          "file": "sounds/e40_2.mp3",
+          "label": "E-40",
+          "sha256": "c96a2c3ff6bf086cb5a4831260cb39a98c60e6836bbcee40bfd00fdd9e4748a9"
+        },
+        {
+          "file": "sounds/fatjoe_5.mp3",
+          "label": "Fat Joe",
+          "sha256": "14e2c5c290ee15fc2c239c680f6655869b528090356a6cc8831d5f29b43c2785"
+        },
+        {
+          "file": "sounds/foxy_unh2.mp3",
+          "label": "Foxy Brown",
+          "sha256": "0909b09fb330f74bc065a92f80949f26768a7d905bf606c5f851c3666deac09d"
+        },
+        {
+          "file": "sounds/future_hendrix.mp3",
+          "label": "Future",
+          "sha256": "ff45ec360cd8d08c683f741e424c374239e96864ae7aec1d0d1532172adfecb5"
+        },
+        {
+          "file": "sounds/gucci_4.mp3",
+          "label": "Gucci Mane",
+          "sha256": "de990b92d6b6c882fb297c55a1d3523fd1470083bb144b40926e51171fcada5f"
+        },
+        {
+          "file": "sounds/inspectahdeck_killahill.mp3",
+          "label": "Inspectah Deck",
+          "sha256": "36fbc71390eb1e4f46d30a4c6cd9983ddb92c62229c539134cc175ce0e3b5880"
+        },
+        {
+          "file": "sounds/jayz_1.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "92e8f3a0c36fa5dbb6a740662cf64f9eebabe911e8f5b700d13805ff7a52a2b3"
+        },
+        {
+          "file": "sounds/jayz_jiggaman.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "00ef5c8e698f77100ace9b7f11182e45b956dda774d09b7be0decc709eaa3a01"
+        },
+        {
+          "file": "sounds/jermaine_unh.mp3",
+          "label": "Jermaine Dupri",
+          "sha256": "8de407ff662c13e00253cbdf66d3e758e9a17eec8b8f0aee8fd34465f38e2c27"
+        },
+        {
+          "file": "sounds/juicyj_9.mp3",
+          "label": "Juicy J",
+          "sha256": "767f0f58e2bc339f505994427c5655eabe8f8905228ca85cd529e917f22d3999"
+        },
+        {
+          "file": "sounds/kanye_ouh.mp3",
+          "label": "Kanye West",
+          "sha256": "a6cf4a55751d47cb494267ca59353f64ce746c98245488409ad407fbee8f27fb"
+        },
+        {
+          "file": "sounds/krsone_1.mp3",
+          "label": "KRS-One",
+          "sha256": "92e848d7344f957b2c332b369103941931a453a4b93e9af9bd59ec33db0c1d63"
+        },
+        {
+          "file": "sounds/liljon_4.mp3",
+          "label": "Lil Jon",
+          "sha256": "2119a48c055064de1981ec9058df2a33be1eb623e109e9c80a766034c1f046dd"
+        },
+        {
+          "file": "sounds/weezy_22.mp3",
+          "label": "Lil Wayne",
+          "sha256": "a6f4029b0d1364b4018e849c59a8235b0c2b79a94f2f99bc4a6b7ecbd61e3e35"
+        },
+        {
+          "file": "sounds/weezy_30.mp3",
+          "label": "Lil Wayne",
+          "sha256": "a2cdde01eef30b84bf215d3faa597bc7b633d84c7d622760b1a5a76ab5b41007"
+        },
+        {
+          "file": "sounds/ludacris_woo.mp3",
+          "label": "Ludacris",
+          "sha256": "4625cfd90a7a69cf6ed29cbceade64b03ffca427b56486f5c330f4ccfbda4835"
+        },
+        {
+          "file": "sounds/mchammer_1.mp3",
+          "label": "MC Hammer",
+          "sha256": "489c069557b0aa1e9df0a3b5c54f97d96a6a8ee709afd6fd9d7786e7ab0f28a6"
+        },
+        {
+          "file": "sounds/metro_somemo.mp3",
+          "label": "Metro Boomin",
+          "sha256": "a9a8ed922456cf040d7362555fb20d6bfb54853293e49408855d1b65eb1f4a73"
+        },
+        {
+          "file": "sounds/mustard_onthebeat.mp3",
+          "label": "Mustard",
+          "sha256": "a5954f899fd67a41c3314ed303d7491da08192be348155b1bcfa52a81c36c380"
+        },
+        {
+          "file": "sounds/nicki_cat.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "bf2c98d31150725cfc9a6f0f0f1ed7ee19eec3dea0eeacf3aa276dbad8775995"
+        },
+        {
+          "file": "sounds/biggie_1.mp3",
+          "label": "The Notorious B.I.G.",
+          "sha256": "c5068192e7d11c8f17a71dba50e328a5fbab30fc5707ba2ee022298f32dd68f4"
+        },
+        {
+          "file": "sounds/pharrell_2.mp3",
+          "label": "Pharrell Williams",
+          "sha256": "8d0aeb889163fa1628e9612bfe313a2e248ff4b7680d0a8629241d377f640395"
+        },
+        {
+          "file": "sounds/pitbull_2.mp3",
+          "label": "Pitbull",
+          "sha256": "a467517d015471dc3d3f525ae5cb7dbb2b0a028ef63828ab3dc2e68eb9517b5a"
+        },
+        {
+          "file": "sounds/pushat_haha.mp3",
+          "label": "Pusha T",
+          "sha256": "81f7b555d61dd5b605d90b8893251d98d7e271eb2a6b4495f81453417d81d1e8"
+        },
+        {
+          "file": "sounds/quavo_youngnigga.mp3",
+          "label": "Quavo",
+          "sha256": "87d476c8704dc14046940e4f63a8ab9ceccbef200bc549ee77d5484f38e48df2"
+        },
+        {
+          "file": "sounds/richhomie_quan.mp3",
+          "label": "Rich Homie Quan",
+          "sha256": "5c83dc851cb9f48ce65af1ba9426dde002f58521c9b90f9dae1a4f2240ff893c"
+        },
+        {
+          "file": "sounds/seanprice_1.mp3",
+          "label": "Sean Price",
+          "sha256": "19e1022b7fc3e8fed6b89460b2bea5c6e737e0f229a8d38ba91e1fbffe363e89"
+        },
+        {
+          "file": "sounds/soulja_2.mp3",
+          "label": "Soulja Boy",
+          "sha256": "2980559e4ae0b8436c84e500b87ffe25dab9c6cad12fe1c1a5894cbc125e3002"
+        },
+        {
+          "file": "sounds/takeoff_bitch.mp3",
+          "label": "Takeoff",
+          "sha256": "458a9c0a67fe6450843806d05e26d58665e4d05071750e7da6ac2cf3feeef99a"
+        },
+        {
+          "file": "sounds/takeoff_ugh.mp3",
+          "label": "Takeoff",
+          "sha256": "8926c2d3504160136379d410211d2beefcfcdc8a883abcdb88f7c29182cd9380"
+        },
+        {
+          "file": "sounds/tooshort_1.mp3",
+          "label": "Too $hort",
+          "sha256": "b9bcb5be1a1c8f322c06086b2a4e7dc7cfa09f5807016c49b906a114996fb830"
+        },
+        {
+          "file": "sounds/travisscott_straightup.mp3",
+          "label": "Travis Scott",
+          "sha256": "5ef0a1a77cd61ce7fdfd1cbf95d261fb07914e1a6e870a0b81d2da723b75e612"
+        },
+        {
+          "file": "sounds/trick_4.mp3",
+          "label": "Trick Daddy",
+          "sha256": "d84b36023455c0d5831065c896e711c40bf4cb9a881c5dcbe98c1bc709c7c4f4"
+        },
+        {
+          "file": "sounds/willsmith_1.mp3",
+          "label": "Will Smith",
+          "sha256": "d26c4f74ce144a91fe6e5f5ff7b48a3db36bfbe6d5008bc0bf2b6a4903294879"
+        },
+        {
+          "file": "sounds/yogotti_yeah.mp3",
+          "label": "Yo Gotti",
+          "sha256": "141fef9cbf22b3213f32fe7cde0e60a00b98221d8aa613a81f1ee9be639395cc"
+        },
+        {
+          "file": "sounds/youngthug_git.mp3",
+          "label": "Young Thug",
+          "sha256": "c1d1e1f8d98f5c092115a32a31ac8e3bf15b0eb9683eedd277e4ebec7cd732f1"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/2chainz_watchout.mp3",
+          "label": "2 Chainz",
+          "sha256": "59f7dc10161b7f35619d980c1d2ab7dcf8e2ebb47353d41feb46b0034610dcab"
+        },
+        {
+          "file": "sounds/50_5.mp3",
+          "label": "50 Cent",
+          "sha256": "55d9ac5555ad50129af373a9dd0cd674d0e9f4aa3f28ab64367275be44e5031c"
+        },
+        {
+          "file": "sounds/action_yo.mp3",
+          "label": "Action Bronson",
+          "sha256": "f7a16bc0ee45ff2e98122e4ec2b5a412393972ca16fd52a4e4aa064afb6d03a3"
+        },
+        {
+          "file": "sounds/bigl_3.mp3",
+          "label": "Big L",
+          "sha256": "b04f35a658cd21c483ea8d8e775d611d223002ab7cb945ee24100705130e3946"
+        },
+        {
+          "file": "sounds/bigsean_ohgod.mp3",
+          "label": "Big Sean",
+          "sha256": "11bc03eeafd8bb2e79abd5ae3715aac3910ccd618866b1a21a7c9c3f4957ba03"
+        },
+        {
+          "file": "sounds/birdman_4.mp3",
+          "label": "Birdman",
+          "sha256": "094260db0cabb3a44a9d9c975cda76b9f7af234cae38986d5b5cd17bea03e0e6"
+        },
+        {
+          "file": "sounds/birdman_nonsense.mp3",
+          "label": "Birdman",
+          "sha256": "653deb8d589acdbdb42dbf097ea3dff36d27213351de3729294a092a96d6ed0e"
+        },
+        {
+          "file": "sounds/busta_2.mp3",
+          "label": "Busta Rhymes",
+          "sha256": "cb1ff91b7537d04d0f63729f46f3868fe6ae9609b63f0489dbbc53ca72dacac2"
+        },
+        {
+          "file": "sounds/keef_catchup.mp3",
+          "label": "Chief Keef",
+          "sha256": "b033e38fbb423f50bd951d69c72c7e24c421e6938f6af64a265ac1713709c7c3"
+        },
+        {
+          "file": "sounds/danny_stop.mp3",
+          "label": "Danny Brown",
+          "sha256": "c57bf4281057850609248e2e6d0a0b1293728ed2c0200c3b6eefddf6c4a0e7f9"
+        },
+        {
+          "file": "sounds/desiigner_rahhh.mp3",
+          "label": "Desiigner",
+          "sha256": "538f919493d5985f5a6b7003da8bbbab3f14a94a2a261290f370f0d209c0c2eb"
+        },
+        {
+          "file": "sounds/khaled_blessup2.mp3",
+          "label": "DJ Khaled",
+          "sha256": "f9d4302da894a1a22b96e6e17791595a39b2bea1b2f6eea920a3b25bfb8db1b0"
+        },
+        {
+          "file": "sounds/khaled-anotherone.mp3",
+          "label": "DJ Khaled",
+          "sha256": "7915935610a2d4f30774b62d00c2984092eb29e78a2a5c5f9b7732dbaf911ef7"
+        },
+        {
+          "file": "sounds/dmx6.mp3",
+          "label": "DMX",
+          "sha256": "51b2c1a45f4d87b3b0ca9f40a1fe05de2a8a4237359d66181d6d9123cf8bb0b2"
+        },
+        {
+          "file": "sounds/drake_goddamngoddamn.mp3",
+          "label": "Drake",
+          "sha256": "c286418782e160ccfc6d24ae193f79fdf144e9e7f0630562f6b569498ff795b5"
+        },
+        {
+          "file": "sounds/eazye_1.mp3",
+          "label": "Eazy-E",
+          "sha256": "231d4bbadf6f979d57d64f5393cda73e827a79db9df2ced076e8b0785e694d68"
+        },
+        {
+          "file": "sounds/fetty_1738.mp3",
+          "label": "Fetty Wap",
+          "sha256": "e94f4e3e2fba1a58c15023c0ce66247a43ff8cc49f22200308ea6aa38135b95f"
+        },
+        {
+          "file": "sounds/foxxy_heyo.mp3",
+          "label": "Foxy Brown",
+          "sha256": "aef50f98e29386ddec447f5cf4f4b08546f441f939319ef576c94d59f28bb916"
+        },
+        {
+          "file": "sounds/future_hey.mp3",
+          "label": "Future",
+          "sha256": "ad2e577841543ea527d9ad14e68d4c7e85bfce1f763eb20b4d42f637234a8a85"
+        },
+        {
+          "file": "sounds/gucci_14.mp3",
+          "label": "Gucci Mane",
+          "sha256": "43aa50c5cc2b138fb3c37293db46d7650a27e9d7625dd69c9f1b3888c5063958"
+        },
+        {
+          "file": "sounds/jadakiss_3.mp3",
+          "label": "Jadakiss",
+          "sha256": "305d436342f5af21e1a48be8e9f005f57168c3abb7a1f4ab751ed6429b026c39"
+        },
+        {
+          "file": "sounds/jayz5.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "07f25e033f80fac7376cb5ad24c1ff4156a47e6fcd6eb5980209bd1693b56e47"
+        },
+        {
+          "file": "sounds/jayz_woo.mp3",
+          "label": "JA\u0178-Z",
+          "sha256": "877c83e5125763fe3f47f37ed6aa541497a91c92c21e9e4140d0d545e06360cd"
+        },
+        {
+          "file": "sounds/jones_8.mp3",
+          "label": "Jim Jones",
+          "sha256": "0c9e98aa0b7e5fa23cb44589f990c47c845a88d33511d6adc90ba92e3124cd87"
+        },
+        {
+          "file": "sounds/juicyj_10.mp3",
+          "label": "Juicy J",
+          "sha256": "18207483cfdc130e39f29e316401aab21c87a18cea011d968c71b0bc86d3fec4"
+        },
+        {
+          "file": "sounds/kanye_unh.mp3",
+          "label": "Kanye West",
+          "sha256": "832c054880ea4784fefbbdeff43dbb8800a55fef45b80e924bfe8e068c196eb6"
+        },
+        {
+          "file": "sounds/lilb_1.mp3",
+          "label": "Lil B",
+          "sha256": "6456598dd1d0f04ad87589b4808191952505992d7c792667bf04761c22e119e2"
+        },
+        {
+          "file": "sounds/lilkim_queenb.mp3",
+          "label": "Lil' Kim",
+          "sha256": "1583ec81a0f1a35797e7a230733f06735d04440b8222d758a2531591fd910f3f"
+        },
+        {
+          "file": "sounds/weezy_29.mp3",
+          "label": "Lil Wayne",
+          "sha256": "ada756603bd85d42ac31b866300f98a1160f695c9c58ede7067af3fe00ae42ee"
+        },
+        {
+          "file": "sounds/weezy_31.mp3",
+          "label": "Lil Wayne",
+          "sha256": "2297a34aae948276245971d38800a21e425498b84ed30628b8a1c2f3949b77cd"
+        },
+        {
+          "file": "sounds/madeintyo_skrrskrr.mp3",
+          "label": "MadeinTYO",
+          "sha256": "77828df159736340d825fd3673be3e8c59e418085e1a79d40383c82e2b0f0d4b"
+        },
+        {
+          "file": "sounds/meek_bow.mp3",
+          "label": "Meek Mill",
+          "sha256": "fe274d1a739d9e9b04f9a22d67a23abac9fe3d546c635b99851372c2a942ab3c"
+        },
+        {
+          "file": "sounds/mikejones_2.mp3",
+          "label": "Mike Jones",
+          "sha256": "5f8f6f250aa4f77424cc92796f10bfb0ae74139a03bc8a8fe5bae9038b507024"
+        },
+        {
+          "file": "sounds/nas_1.mp3",
+          "label": "Nas",
+          "sha256": "03fc307086cb648a3c6c3571eb7efc1503cf1875b024b9472f5d65e019d0e5e4"
+        },
+        {
+          "file": "sounds/nicki_laugh2.mp3",
+          "label": "Nicki Minaj",
+          "sha256": "468a80dda82e515ee5327d404ccd4bd66c1e5c6ff94b46531ea0c493923039ce"
+        },
+        {
+          "file": "sounds/biggie_2.mp3",
+          "label": "The Notorious B.I.G.",
+          "sha256": "57357e5f4a96cdf8d2bc170128067a29a2a73622e2465e6084bfc3571342d962"
+        },
+        {
+          "file": "sounds/pill_1.mp3",
+          "label": "Pill",
+          "sha256": "3e176f16d8caa4505308aa1bed2a2ca329cca3acababf5801909bfa8e737d3b9"
+        },
+        {
+          "file": "sounds/pitbull_3.mp3",
+          "label": "Pitbull",
+          "sha256": "e7fefb129f6368e5ecbb31062e24c70794ff88e6bcc82eae97537ab0c53d2168"
+        },
+        {
+          "file": "sounds/pushat_unh.mp3",
+          "label": "Pusha T",
+          "sha256": "d977915f53c80332426807574dc6feffb39594dac702629315e6240d083f32fd"
+        },
+        {
+          "file": "sounds/quavo_migo.mp3",
+          "label": "Quavo",
+          "sha256": "68323564b38984646006f487c5d14639c5207545f44e7ba3a9eab9d2a9d0b1e2"
+        },
+        {
+          "file": "sounds/ross_1.mp3",
+          "label": "Rick Ross",
+          "sha256": "70092f292d43630d945eb74827aec3132b2c4aba2cc9128814f376da16f28550"
+        },
+        {
+          "file": "sounds/thugga_2.mp3",
+          "label": "Slim Thug",
+          "sha256": "1c326465cca1c55ec1201bcbec49f108c40a1c00cc4a559cc9bd652c0d044467"
+        },
+        {
+          "file": "sounds/soulja_4.mp3",
+          "label": "Soulja Boy",
+          "sha256": "d29f9a8c0f8fb403c228227a62f573d343cd5528604cc22986a492a4683bc621"
+        },
+        {
+          "file": "sounds/takeoff_graaa.mp3",
+          "label": "Takeoff",
+          "sha256": "4e0d0f0b1fdb52c71809d176de42550b64717d693974e360baebb3fc4ff2ac6c"
+        },
+        {
+          "file": "sounds/ti_5.mp3",
+          "label": "T.I.",
+          "sha256": "9688ca7f75817f86ec2d2f98aa2236a2a625c24d2b368a32cba2c97a6103f1db"
+        },
+        {
+          "file": "sounds/tpain_2.mp3",
+          "label": "T-Pain",
+          "sha256": "179b747cf815c83bff33e81c8015388ed20ed594dcc3536fa283ad5be9824f0a"
+        },
+        {
+          "file": "sounds/traviscott_yah.mp3",
+          "label": "Travis Scott",
+          "sha256": "c9c316cb77b4338b57a760b994478f4a2b434376498cc551ea0dc076a0f42613"
+        },
+        {
+          "file": "sounds/tydolla_dollasign.mp3",
+          "label": "Ty Dolla $ign",
+          "sha256": "57dff90a41e289a131bd9fa1276a3a38551222d6d01ad0e51803725c3e09d3b0"
+        },
+        {
+          "file": "sounds/willsmith_2.mp3",
+          "label": "Will Smith",
+          "sha256": "5ce34a47068af94d747727f4ae3a4a7e0c30847d96c27e1073b18ca56a9e803c"
+        },
+        {
+          "file": "sounds/jeezy_10.mp3",
+          "label": "Young Jeezy",
+          "sha256": "fce03d4641a0e290f3091882f05adbea5982e71eebcdf392672fa3cd8e8218bf"
+        },
+        {
+          "file": "sounds/youngthug_ish.mp3",
+          "label": "Young Thug",
+          "sha256": "e758b62b5b7e87ca69713492ce3403c13448e52f69d26c38c6512c2dec128168"
+        }
+      ]
+    }
+  }
+}
