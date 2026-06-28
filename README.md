@@ -1,10 +1,10 @@
 # rapper_adlibs — Rapper Ad-Libs
 
-A [peon-ping](https://github.com/PeonPing/peon-ping) / CESP v1.0 sound pack of **308 rapper ad-libs**, one signature ad-lib per artist, mapped onto your coding agent's events. Every session start, task completion, error, and approval prompt fires a different rapper's ad-lib at random.
+A [peon-ping](https://github.com/PeonPing/peon-ping) / CESP v1.0 sound pack of **153 rapper ad-libs** from **42 of hip-hop's biggest names**, mapped onto your coding agent's events. Every session start, task completion, error, and approval prompt fires a different rapper's ad-lib at random.
 
 ## What's in it
 
-The full [therapboard.com](https://therapboard.com) soundboard — 308 artists, one ad-lib clip each (2 Chainz, DaBaby, Pop Smoke, Westside Gunn, Playboi Carti, and 300+ more). The 308 clips are spread evenly across the six CESP event categories (~51 per category), so every event has a deep random pool and you rarely hear the same ad-lib twice in a session.
+A curated cut of the [therapboard.com](https://therapboard.com) soundboard — 42 marquee artists (2Pac, JAŸ-Z, Eminem, Snoop Dogg, Drake, Kendrick Lamar, Lil Wayne, 2 Chainz, DJ Khaled, Gucci Mane, and more), with their signature ad-lib clips. The 153 clips are spread evenly across the six CESP event categories (~25 per category), so every event has a deep random pool and you rarely hear the same ad-lib twice in a session.
 
 ## Install
 
